@@ -1,7 +1,12 @@
 {
   "client.dll": {
     "classes": {
-      "
+      "ActiveModelConfig_t": {
+        "fields": {
+          "m_AssociatedEntities": 64,
+          "m_AssociatedEntityNames": 88,
+          "m_Handle": 48,
+          "m_Name": 56
         },
         "metadata": [
           {
